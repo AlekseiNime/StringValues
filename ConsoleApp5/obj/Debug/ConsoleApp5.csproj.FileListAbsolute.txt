@@ -1,0 +1,7 @@
+E:\Программные коды\Новая папка\StringValues\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+E:\Программные коды\Новая папка\StringValues\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+E:\Программные коды\Новая папка\StringValues\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+E:\Программные коды\Новая папка\StringValues\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.AssemblyReference.cache
+E:\Программные коды\Новая папка\StringValues\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+E:\Программные коды\Новая папка\StringValues\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+E:\Программные коды\Новая папка\StringValues\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
